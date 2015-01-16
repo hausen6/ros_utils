@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+# どこでもcatkin_makeをするためのスクリプト
 easy_catkin_make() {
 	curDir=$(pwd)
 	roscd
